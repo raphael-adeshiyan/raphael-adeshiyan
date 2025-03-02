@@ -21,23 +21,23 @@ I am a passionate Linux enthusiast and aspiring Systems Administrator with hands
 - Implemented dynamic disk sizing and optimized resource allocation.  
 - Set up SSH access and managed network configurations.  
 - Automated updates using `apt` and `dnf` package managers.  
-🔗 [Full Documentation](#)
+🔗 [Full Documentation](projects/server-setup.md)
 
 ### 2️⃣ **Text Processing with AWK, SED & GREP**  
 - Developed scripts to analyze system logs and extract security alerts.  
 - Used `grep` to filter failed SSH login attempts from `/var/log/auth.log`.  
 - Automated log formatting and cleanup with `awk` and `sed`.  
-🔗 [View Scripts](#)
+🔗 [View Scripts](scripts/log-processing.md)
 
 ### 3️⃣ **User & Permission Management**  
 - Created and managed user accounts with controlled access.  
 - Configured sudo privileges and implemented best security practices.  
-🔗 [Documentation](#)
+🔗 [Documentation](projects/user-management.md)
 
 ## 📂 Portfolio Sections  
-📁 **Project Documentation**: Step-by-step guides for my setups.  
-📁 **Scripts & Automation**: Bash scripts used for Linux automation.  
-📁 **Learning Logs**: Notes and challenges faced during labs.  
+📁 **[Project Documentation](projects/)**: Step-by-step guides for my setups.  
+📁 **[Scripts & Automation](scripts/)**: Bash scripts used for Linux automation.  
+📁 **[Learning Logs](learning-logs/)**: Notes and challenges faced during labs.  
 
 ## 🚀 Next Steps  
 🔹 Implement advanced networking (firewalls, VPN).  
@@ -46,9 +46,10 @@ I am a passionate Linux enthusiast and aspiring Systems Administrator with hands
 
 ## 📫 Contact  
 📧 Email: raphael.adeshiyan@example.com  
-📂 GitHub: [github.com/raphael-adeshiyan](#)  
-🔗 LinkedIn: [linkedin.com/in/raphael-adeshiyan](#)  
+📂 GitHub: [github.com/raphael-adeshiyan](https://github.com/raphael-adeshiyan)  
+🔗 LinkedIn: [linkedin.com/in/raphael-adeshiyan](https://linkedin.com/in/raphael-adeshiyan)  
 
 ---
+
 *"Mastering Linux one command at a time."*
 

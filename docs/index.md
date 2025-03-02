@@ -21,23 +21,23 @@ I am a passionate Linux enthusiast and aspiring Systems Administrator with hands
 - Implemented dynamic disk sizing and optimized resource allocation.  
 - Set up SSH access and managed network configurations.  
 - Automated updates using `apt` and `dnf` package managers.  
-🔗 [Full Documentation](projects/server-setup.md)
+🔗 [Full Documentation](projects/server-setup.html)
 
 ### 2️⃣ **Text Processing with AWK, SED & GREP**  
 - Developed scripts to analyze system logs and extract security alerts.  
 - Used `grep` to filter failed SSH login attempts from `/var/log/auth.log`.  
 - Automated log formatting and cleanup with `awk` and `sed`.  
-🔗 [View Scripts](scripts/log-processing.md)
+🔗 [View Scripts](scripts/log-processing.html)
 
 ### 3️⃣ **User & Permission Management**  
 - Created and managed user accounts with controlled access.  
 - Configured sudo privileges and implemented best security practices.  
-🔗 [Documentation](projects/user-management.md)
+🔗 [Documentation](projects/user-management.html)
 
 ## 📂 Portfolio Sections  
-📁 **[Project Documentation](projects/)**: Step-by-step guides for my setups.  
-📁 **[Scripts & Automation](scripts/)**: Bash scripts used for Linux automation.  
-📁 **[Learning Logs](learning-logs/)**: Notes and challenges faced during labs.  
+📁 **[Project Documentation](projects/)**: Step-by-step guides for my setups.
+📁 **[Scripts & Automation](scripts/)**: Bash scripts used for Linux automation.
+📁 **[Learning Logs](learning-logs/)**: Notes and challenges faced during labs. 
 
 ## 🚀 Next Steps  
 🔹 Implement advanced networking (firewalls, VPN).  
